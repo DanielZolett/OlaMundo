@@ -5,3 +5,5 @@ git remote add origin git@github.com:DanielZolett/OlaMundo.git
     fetch = +refs/heads/*:refs/remotes/origin/*
     
   git status
+  
+  git add olagit.txt.txt  
